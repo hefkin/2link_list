@@ -1,0 +1,4 @@
+﻿  2link.cpp
+D:\Моя прелесть\KOD\FuncAndFiles\2link\2link\2link.cpp(24,9): warning C4101: g: неиспользованная локальная переменная
+D:\Моя прелесть\KOD\FuncAndFiles\2link\2link\2link.cpp(24,18): warning C4101: d: неиспользованная локальная переменная
+  2link.vcxproj -> D:\Моя прелесть\KOD\FuncAndFiles\2link\Debug\2link.exe
